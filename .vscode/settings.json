@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cpp": "platformio-debug.asm",
+        "*.py": "cpp"
+    }
+}
